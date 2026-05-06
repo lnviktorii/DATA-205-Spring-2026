@@ -1,0 +1,19 @@
+# Big data files
+usa_00002.csv.gz
+*.csv.gz
+ipums_md_2023.csv
+
+# Python cruft
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment / secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
