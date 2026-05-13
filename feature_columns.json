@@ -1,18 +1,1 @@
-[
-  "AGE",
-  "SEX",
-  "RACE",
-  "HISPAN",
-  "MARST",
-  "FAMSIZE",
-  "NCHILD",
-  "NCHLT5",
-  "EDUC",
-  "DEGFIELD",
-  "OCC",
-  "IND",
-  "CLASSWKR",
-  "UHRSWORK",
-  "WKSWORK2",
-  "PUMA"
-]
+["AGE", "SEX", "RACE", "HISPAN", "MARST", "FAMSIZE", "NCHILD", "NCHLT5", "EDUC", "DEGFIELD", "OCC", "IND", "CLASSWKR", "UHRSWORK", "WKSWORK2", "PUMA", "FOREIGN_BORN", "CITIZEN", "SPEAKENG", "YRSUSA1"]
