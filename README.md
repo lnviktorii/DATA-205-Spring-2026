@@ -44,4 +44,4 @@ Complete, Spring 2026
 
 ## Author
 
-Viktoriia Lyon, [LinkedIn](https://www.linkedin.com/in/viktoriia-lyon)
+Viktoriia Lyon, [LinkedIn](https://www.linkedin.com/in/viktoriia-lyon-7a2683106/)
