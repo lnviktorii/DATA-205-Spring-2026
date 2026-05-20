@@ -9,7 +9,7 @@ from helpers import (
 )
 
 st.set_page_config(page_title="Self-Sufficiency Navigator",
-                   page_icon="🧭", layout="wide")
+             layout="wide")
 
 # Load artifacts once and cache
 @st.cache_resource
@@ -23,7 +23,7 @@ model, features, df_mc = load_all()
 # ============================================================
 # HEADER
 # ============================================================
-st.title("🧭 Self-Sufficiency Navigator")
+st.title("Self-Sufficiency Navigator")
 st.markdown(
     "**Montgomery County, MD** — Compare your predicted earned income "
     "against the cost of self-sufficiency for your household."
